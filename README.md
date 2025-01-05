@@ -16,13 +16,7 @@ pandas: Data manipulation.
 matplotlib and seaborn: Visualizations.
 numpy: Numerical computations.
 
-## Installation
-### 1. Clone this repository:
-        git clone https://github.com/your-username/project-name.git
-### 2. Navigate to the project directory:
-        cd project-name
-### 3. Install the required dependencies:
-      pip install -r requirements.txt
+
 ## Usage
 Run the Jupyter Notebook:
 jupyter notebook
