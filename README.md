@@ -13,7 +13,9 @@ Fraud Detection: Key metrics for identifying and analyzing fraudulent transactio
 ### Python: Core programming language for data analysis.
 ### Libraries:
 pandas: Data manipulation.
+
 matplotlib and seaborn: Visualizations.
+
 numpy: Numerical computations.
 
 
